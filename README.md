@@ -7,3 +7,5 @@
 *testando comando push*
 
 *testando novamente*
+
+*testando comando pull*
