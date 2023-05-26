@@ -9,3 +9,5 @@
 *testando novamente*
 
 *testando comando pull*
+
+*testando comando fetch*
