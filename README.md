@@ -11,3 +11,5 @@
 *testando comando pull*
 
 *testando comando fetch*
+
+*testando novamente o comando fetch*
