@@ -2,8 +2,8 @@
 
 # testando
 
- *usando comando restore*
+*usando comando restore*
 
- *testando comando push*
+*testando comando push*
 
 *testando novamente*
